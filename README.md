@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999"><br>
-<img src="img.png" align="center" width="150" alt="Img Module Example">
+<img src="img.png" align="center" width="550" alt="Img Module Example">
 
 # Deep Learning com Modulo OpenCV DNN
 
